@@ -44,7 +44,7 @@ class StateProviderScreen extends ConsumerWidget {
 }
 
 class _NextScreen extends ConsumerWidget {
-  const _NextScreen({super.key});
+  const _NextScreen();
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
